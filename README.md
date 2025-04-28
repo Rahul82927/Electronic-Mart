@@ -1,6 +1,7 @@
 ELECTRONIC MART
 Project Overview
 Electronic Mark is a comprehensive platform designed to streamline electronic transactions, data management, or online services (you can specify the actual function here, like "an e-commerce website", "a grading system", "a marketplace", etc.). It aims to deliver a user-friendly, efficient, and secure environment for users to interact, manage information, and achieve their objectives digitally.
+
 https://github.com/Rahul82927/Electronic-Mart/blob/main/emartimage.png
 
 Features
