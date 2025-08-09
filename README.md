@@ -18,7 +18,7 @@ Customizable Modules: Extendable architecture for future enhancements.
 Technologies Used
 Frontend: (e.g., HTML5, CSS3, JavaScript, React)
 
-Backend: (e.g., Node.js, Java, Python, PHP)
+Backend: (e.g., Node.js, PHP)
 
 Database: (e.g., MySQL)
 
